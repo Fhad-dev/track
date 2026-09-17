@@ -1,0 +1,15 @@
+{
+  "base": [
+    { "name": "Base Camo I",   "requirement": "Get 30 kills with this weapon." },
+    { "name": "Base Camo II",  "requirement": "Get 10 kills without reloading, 3 times." },
+    { "name": "Base Camo III", "requirement": "Get 10 kills from behind or the side, 5 times." },
+    { "name": "Base Camo IV",  "requirement": "Get 3 kills without dying, 5 times." },
+    { "name": "Base Camo V",   "requirement": "Get 10 kills while sprinting or sliding, 3 times." },
+    { "name": "Base Camo VI",  "requirement": "Get 5 headshots in a single life, 3 times." }
+  ],
+  "special": [
+    { "name": "Special Camo I",  "requirement": "Get 2 kills with the weapon's attachment of choice, 15 times." },
+    { "name": "Special Camo II", "requirement": "Get 15 longshot kills." },
+    { "name": "Special Camo III","requirement": "Get 25 kills while using a perk of choice." }
+  ]
+}

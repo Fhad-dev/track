@@ -1,0 +1,10 @@
+[
+  { "slug": "mw2019",   "name": "Call of Duty: Modern Warfare",      "short_name": "MW19", "release_year": 2019, "accent_color": "#6E8B74", "status": "active",      "sort_order": 1 },
+  { "slug": "cold-war", "name": "Call of Duty: Black Ops Cold War",  "short_name": "BOCW", "release_year": 2020, "accent_color": "#9C2B2E", "status": "active",      "sort_order": 2 },
+  { "slug": "vanguard", "name": "Call of Duty: Vanguard",            "short_name": "VG",   "release_year": 2021, "accent_color": "#B08D57", "status": "active",      "sort_order": 3 },
+  { "slug": "mw2",      "name": "Call of Duty: Modern Warfare II",   "short_name": "MWII", "release_year": 2022, "accent_color": "#3E5C76", "status": "active",      "sort_order": 4 },
+  { "slug": "mw3",      "name": "Call of Duty: Modern Warfare III",  "short_name": "MWIII","release_year": 2023, "accent_color": "#4A4E69", "status": "active",      "sort_order": 5 },
+  { "slug": "bo6",      "name": "Call of Duty: Black Ops 6",         "short_name": "BO6",  "release_year": 2024, "accent_color": "#7A1F2B", "status": "active",      "sort_order": 6 },
+  { "slug": "bo7",      "name": "Call of Duty: Black Ops 7",         "short_name": "BO7",  "release_year": 2025, "accent_color": "#1F2A44", "status": "active",      "sort_order": 7 },
+  { "slug": "mw4",      "name": "Call of Duty: Modern Warfare 4",    "short_name": "MW4",  "release_year": null, "accent_color": "#5B5F63", "status": "coming_soon","sort_order": 8 }
+]

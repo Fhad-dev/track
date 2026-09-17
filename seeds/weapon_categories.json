@@ -1,0 +1,12 @@
+[
+  { "key": "assault_rifle",   "label": "Assault Rifles",   "sort_order": 1 },
+  { "key": "smg",             "label": "SMGs",             "sort_order": 2 },
+  { "key": "shotgun",         "label": "Shotguns",         "sort_order": 3 },
+  { "key": "lmg",             "label": "LMGs",             "sort_order": 4 },
+  { "key": "marksman_rifle",  "label": "Marksman Rifles",  "sort_order": 5 },
+  { "key": "sniper_rifle",    "label": "Sniper Rifles",    "sort_order": 6 },
+  { "key": "pistol",          "label": "Pistols",          "sort_order": 7 },
+  { "key": "launcher",        "label": "Launchers",        "sort_order": 8 },
+  { "key": "melee",           "label": "Melee",            "sort_order": 9 },
+  { "key": "special",         "label": "Special Weapons",  "sort_order": 10 }
+]

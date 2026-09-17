@@ -1,0 +1,19 @@
+{
+  "mw2019": [
+    { "slug": "kilo-141",     "name": "Kilo 141",      "category": "assault_rifle" },
+    { "slug": "m4a1",         "name": "M4A1",          "category": "assault_rifle" },
+    { "slug": "mp5",          "name": "MP5",           "category": "smg" },
+    { "slug": "725",          "name": "725",           "category": "shotgun" },
+    { "slug": "pkm",          "name": "PKM",           "category": "lmg" },
+    { "slug": "ax-50",        "name": "AX-50",         "category": "sniper_rifle" },
+    { "slug": "x16",          "name": "X16",           "category": "pistol" }
+  ],
+  "bo6": [
+    { "slug": "xm4",          "name": "XM4",           "category": "assault_rifle" },
+    { "slug": "ames-85",      "name": "AMES 85",       "category": "assault_rifle" },
+    { "slug": "pu-21",        "name": "PU-21",         "category": "smg" },
+    { "slug": "jackal-pdw",   "name": "Jackal PDW",    "category": "smg" },
+    { "slug": "sokolov-556",  "name": "Sokolov 556",   "category": "lmg" },
+    { "slug": "lw3-tundra",   "name": "LW3 Tundra",    "category": "sniper_rifle" }
+  ]
+}

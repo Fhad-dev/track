@@ -1,0 +1,41 @@
+{
+  "mw2019": [
+    { "key": "gold",     "label": "Gold",     "sort_order": 1 },
+    { "key": "platinum", "label": "Platinum", "sort_order": 2 },
+    { "key": "damascus", "label": "Damascus", "sort_order": 3 },
+    { "key": "obsidian", "label": "Obsidian", "sort_order": 4 }
+  ],
+  "cold-war": [
+    { "key": "gold",        "label": "Gold",        "sort_order": 1 },
+    { "key": "diamond",     "label": "Diamond",     "sort_order": 2 },
+    { "key": "dark_matter", "label": "Dark Matter", "sort_order": 3 }
+  ],
+  "vanguard": [
+    { "key": "gold",    "label": "Gold",    "sort_order": 1 },
+    { "key": "diamond", "label": "Diamond", "sort_order": 2 },
+    { "key": "atomic",  "label": "Atomic",  "sort_order": 3 }
+  ],
+  "mw2": [
+    { "key": "gold",       "label": "Gold",       "sort_order": 1 },
+    { "key": "platinum",   "label": "Platinum",   "sort_order": 2 },
+    { "key": "polyatomic", "label": "Polyatomic", "sort_order": 3 },
+    { "key": "orion",      "label": "Orion",      "sort_order": 4 }
+  ],
+  "mw3": [
+    { "key": "gold",     "label": "Gold",     "sort_order": 1 },
+    { "key": "cobalt",   "label": "Cobalt",   "sort_order": 2 },
+    { "key": "forged",   "label": "Forged",   "sort_order": 3 },
+    { "key": "priceless","label": "Priceless","sort_order": 4 }
+  ],
+  "bo6": [
+    { "key": "gold",       "label": "Gold",       "sort_order": 1 },
+    { "key": "diamond",    "label": "Diamond",    "sort_order": 2 },
+    { "key": "dark_spine", "label": "Dark Spine", "sort_order": 3 }
+  ],
+  "bo7": [
+    { "key": "gold",         "label": "Gold",         "sort_order": 1 },
+    { "key": "diamond",      "label": "Diamond",      "sort_order": 2 },
+    { "key": "interstellar", "label": "Interstellar", "sort_order": 3 }
+  ],
+  "mw4": []
+}

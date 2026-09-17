@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NES — Call of Duty Camo Tracker</title>
+<link rel="stylesheet" href="/css/main.css" />
+</head>
+<body>
+<div id="nav-root"></div>
+
+<main>
+  <section class="hero">
+    <div class="container">
+      <div class="hero-kicker">NES CAMO TRACKER</div>
+      <h1>MASTER EVERY CAMO.</h1>
+      <p>Track your Call of Duty camo journey from Modern Warfare 2019 to Black Ops 7 — synced to the cloud, on every device.</p>
+      <div class="hero-actions">
+        <a href="/pages/games.html" class="btn btn-primary">Browse Games</a>
+        <a href="/pages/tracker.html" class="btn btn-secondary">My Tracker</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="section-title">Why NES</div>
+    <div class="grid">
+      <div class="card">
+        <h3 style="margin-top:0;">Cloud Save</h3>
+        <p style="color:var(--secondary); font-size:14px; line-height:1.6;">Your progress is stored securely on our servers — log in from any device and pick up exactly where you left off.</p>
+      </div>
+      <div class="card">
+        <h3 style="margin-top:0;">Every Era</h3>
+        <p style="color:var(--secondary); font-size:14px; line-height:1.6;">From Modern Warfare 2019 through Black Ops 7, with Modern Warfare 4 tracked and ready the moment it lands.</p>
+      </div>
+      <div class="card">
+        <h3 style="margin-top:0;">Private by Default</h3>
+        <p style="color:var(--secondary); font-size:14px; line-height:1.6;">Your profile stays private unless you choose to share it. No real name, email, or device data required to play.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="games-preview">
+    <div class="section-title">Games</div>
+    <div class="grid" id="games-grid">
+      <div class="skeleton" style="height:180px;"></div>
+      <div class="skeleton" style="height:180px;"></div>
+      <div class="skeleton" style="height:180px;"></div>
+    </div>
+  </section>
+</main>
+
+<div id="footer-root"></div>
+
+<script src="/js/api.js"></script>
+<script src="/js/app.js"></script>
+<script src="/js/gameCard.js"></script>
+<script src="/js/pages/index.js"></script>
+</body>
+</html>
